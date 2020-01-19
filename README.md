@@ -7,7 +7,7 @@ GoogleのAPIライブラリをインストールする必要があります。
 $ composer require google/apiclient:~2.0
 
 またAPIキーが必要です。
-デベロッパーコンソール(https://console.developers.google.com/)から発行したAPIキーをyoutubeChannelsGet.php の$DEVELOPER_KEYへ入力してください。
+[デベロッパーコンソール](https://console.developers.google.com/)から発行したAPIキーをyoutubeChannelsGet.php の$DEVELOPER_KEYへ入力してください。
 
 # 各ファイルについて
 - youtuberList.php
