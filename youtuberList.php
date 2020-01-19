@@ -1,0 +1,52 @@
+<?php
+
+$youtuberList = [
+  ["HikakinTV","UCZf__ehlCEBPop-_sldpBUQ","0_Youtuber",""],
+  ["東海オンエア","UCutJqz56653xV2wwSvut_hQ","0_Youtuber",""],
+  
+  ["中田敦彦","UCFo4kqllbcQ4nV83WCyraiw","1_芸人",""],
+  ["カジサック","UC642pLj4GXSj-0Ybdx3ytmA","1_芸人",""],
+  ["西野亮廣","UCOy5sLcFLqYNqZ1iurp4dCg","1_芸人",""],
+  ["コロッケ","UCQWvUDm9tCNs_Zv7J--xVcw","1_芸人",""],
+  ["霜降り明星","UCpGpA7mSYmNJjLiJxKso5QA","1_芸人",""],
+  ["EXIT","UCr_Zyf2yUXCyk-hUSXFqcaQ","1_芸人",""],
+  ["ゆりやんレトリィバァ","UCDvEytlGb_DYqYoZukE75Lg","1_芸人",""],
+  ["四千頭身","UC_RNTt0woXncVfZMmjK9swA","1_芸人",""],
+  ["ヒロミ","UCmiivdWbzuVQKMljjvfVjqQ","1_芸人",""],
+  ["ヒロシ","UC_ak3ZurSDtT3Kv1RFdrgiA","1_芸人",""],
+  ["関暁夫","UCo7QD2F0sVgkHSDV1TfAV7A","1_芸人",""],
+  ["ロバート秋山","UCJk8dZsM8SIGzIBJ-rDcB3Q","1_芸人",""],
+  ["ゴー☆ジャス","UCXCknrYDQ2VlVxBnRWBnEFg","1_芸人",""],
+  ["なかやまきんに君","UCOUu8YlbaPz0W2TyFTZHvjA","1_芸人",""],
+  ["よゐこ","UCRYWF2XsVvwvSqMrK4FXz3g","1_芸人",""],
+  ["堤下敦","UCqyr-pk7f8TsgfRyKFyZCJw","1_芸人",""],
+  ["ロンドンブーツ","UCTx_XX35OFPYWxc1qQnXypQ","1_芸人",""],
+  ["小沢一敬","UCobq8FTmlbctw88uB2NCJ6w","1_芸人",""],
+  ["山本圭壱","UC24T2Vj2uSukiOwWcpG_9fA","1_芸人",""],
+  ["春日俊彰","UCtFQwWufWlquStIDAeGhasA","1_芸人",""],
+  ["田村裕","UCeF1EId5ePVGgFC0n3xPy5A","1_芸人",""],
+  
+  ["嵐","UCP7Gw_YZAuh4Yg2fcdcuumQ","2_ジャニーズ",""],
+  ["草彅剛","UCMo5MECD5pwhUVLaMqZo5Xg","2_ジャニーズ",""],
+  ["香取慎吾","UCL8CKq7dCJFfKTaTv0O81Rw","2_ジャニーズ",""],
+  ["SixTONES","UCwjAKjycHHT1QzHrQN5Stww","2_ジャニーズ",""],
+
+  ["所ジョージ","UC21MHepdj7rzt3T94hM6ljA","3_俳優・女優・タレント",""],
+  ["速水もこみち","UCps1bJGPPZuH1_FBfeBnSag","3_俳優・女優・タレント",""],
+  ["紗倉まな","UCPFurp91wJS6CmSAcfj7O4Q","3_俳優・女優・タレント",""],
+  ["本田翼","UC8pMBOI9vXf6fIM670vdIPw","3_俳優・女優・タレント",""],
+  ["ゆうこす","UCxS4vbIvtjHQcEW61J2KQIw","3_俳優・女優・タレント",""],
+  ["藤田ニコル","UC3d5tppwxYrOtv8fP8jk7nA","3_俳優・女優・タレント",""],
+  ["GACKT","UC4Zyu8fXoss8fnCraoqVprA","3_俳優・女優・タレント",""],
+  ["水嶋ヒロ","UClMyNfAcko34iqf2jsptgxA","3_俳優・女優・タレント",""],
+  ["ローラ","UCkMs-Zr9pGixbqm0mhO8J7g","3_俳優・女優・タレント",""],
+  ["峯岸みなみ","UCVedolgyNM3SM6rXORDDTgg","3_俳優・女優・タレント",""],
+  ["辻希美","UCNiurMpWExWgio2lqldycbA","3_俳優・女優・タレント",""],
+  ["上原亜衣","UCbjBntVhOcA8iQVJsKrgLTA","3_俳優・女優・タレント",""],
+    
+  ["DaiGo","UCFdBehO71GQaIom4WfVeGSw","4_経営者・作家・アーティスト・スポーツ選手",""],
+  ["堀江貴文","UCXjTiSGclQLVVU83GVrRM4w","4_経営者・作家・アーティスト・スポーツ選手",""],
+  ["ダルビッシュ有","UCpRTROg3nHnOWVPVeMq4z_w","4_経営者・作家・アーティスト・スポーツ選手",""],
+  ["ATSUSHI","UCOD-DHOD7kEg1DH-bNHgkiA","4_経営者・作家・アーティスト・スポーツ選手",""],
+];
+?>
